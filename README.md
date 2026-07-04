@@ -15,7 +15,7 @@ real business problem — no code required to run.
 | 5 | Invoice Appender | Google Form invoice data → appends to Google Sheets |
 | 6 | Smart Lead Responder | Reads Gmail → classifies → AI reply to client emails |
 | 7 | Idea Generator | Form input → Groq content strategist → 5 tweet ideas → Telegram |
-| 8 | Lead Gen Bot | demo uses sample data — swap Code node for Google Places API or Apify for live scraping, takes lead data and appends to sheets |
+| 8 | Lead Gen Bot | Finds local business leads through live scrapping and appends to Google Sheets |
 
 ## Tech Stack
 - n8n (self-hosted)
