@@ -1,11 +1,8 @@
 # n8n Automations 🤖
-
 A collection of production-ready automation workflows 
 built with n8n and Groq AI. Each workflow solves a 
 real business problem — no code required to run.
-
 ## Workflows
-
 | # | Workflow | What it does |
 |---|----------|--------------|
 | 1 | WhatsApp Claude Bot | AI-powered WhatsApp chatbot using Evolution API |
@@ -16,6 +13,7 @@ real business problem — no code required to run.
 | 6 | Smart Lead Responder | Reads Gmail → classifies → AI reply to client emails |
 | 7 | Idea Generator | Form input → Groq content strategist → 5 tweet ideas → Telegram |
 | 8 | Lead Gen Bot | Finds local business leads through live scrapping and appends to Google Sheets |
+| 9 | AI Email Responder | Reads Gmail → classifies client vs personal → drafts AI reply, saves as Gmail draft for review |
 
 ## Tech Stack
 - n8n (self-hosted)
@@ -23,6 +21,5 @@ real business problem — no code required to run.
 - Google Drive, Gmail, Google Sheets
 - Telegram Bot API
 - Evolution API (WhatsApp)
-
 ## Author
 Rajeev | github.com/lolrajeevgoessbrrrrr
