@@ -14,6 +14,7 @@ real business problem — no code required to run.
 | 7 | Idea Generator | Form input → Groq content strategist → 5 tweet ideas → Telegram |
 | 8 | Lead Gen Bot | Finds local business leads through live scrapping and appends to Google Sheets |
 | 9 | AI Email Responder | Reads Gmail → classifies client vs personal → drafts AI reply, saves as Gmail draft for review |
+| 10 | Order Notifier + Support Bot | Form simulates new order → Groq writes customer update → sends via Telegram; also listens for customer replies, classifies them with Groq, and either auto-answers or flags for manual review |
 
 ## Tech Stack
 - n8n (self-hosted)
